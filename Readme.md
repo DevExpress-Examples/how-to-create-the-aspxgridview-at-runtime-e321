@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/GridRuntime/Default.aspx) (VB: [Default.aspx](./VB/GridRuntime/Default.aspx))
-* [Default.aspx.cs](./CS/GridRuntime/Default.aspx.cs) (VB: [Default.aspx](./VB/GridRuntime/Default.aspx))
+* [Default.aspx.cs](./CS/GridRuntime/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/GridRuntime/Default.aspx.vb))
 <!-- default file list end -->
 # How to create the ASPxGridView at runtime
 
